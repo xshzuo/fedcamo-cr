@@ -1,7 +1,0 @@
-# FedCAMO-CR dependencies
-# Tested with Python 3.12 on macOS 14.6.1 / Ubuntu 22.04
-
-numpy>=1.24,<3.0
-pandas>=2.0,<3.0
-scipy>=1.10,<2.0
-matplotlib>=3.7,<4.0
