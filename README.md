@@ -104,7 +104,7 @@ Code: MIT. Paper text and figures: CC BY 4.0 (the published paper is under CC BY
   title   = {Stage-Aware Trust-Aware Carbon-Budgeted Client Selection
              for Synchronous Federated Learning: FedCAMO-CR},
   author  = {[Xiangshan zuo]},
-  journal = {Computer Networks},
+  journal = { },
   year    = {2026},
   note    = {Companion paper to Lu et al.\ 2026 (DOI:10.1016/j.comnet.2026.112486)}
 }
